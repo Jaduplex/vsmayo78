@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "Transparent?",
+            "type": "Bool",
+            "defaultValue": "false"
+        },
+        {
+            "name": "Tween Time",
+            "type": "Float(0, 30, 0.1, 2)",
+            "defaultValue": "0.2"
+        }
+    ]
+}

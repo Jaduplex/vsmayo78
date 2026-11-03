@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="700" y="625" scale="1.4" camx="-450" camy="-50" color="#B05C95" applyStageMatrix="true">
+	<anim name="idle" anim="anims/idle"/>
+	<anim name="singUP" anim="anims/up" x="-123" y="110"/>
+	<anim name="singLEFT" anim="anims/left" x="-132" y="107"/>
+	<anim name="singRIGHT" anim="anims/right" x="-155" y="101"/>
+	<anim name="singDOWN" anim="anims/down" x="-151" y="104"/>
+</character>

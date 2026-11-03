@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#B05C95",
+	"opponentModeAllowed": true,
+	"icon": "mayonbayo",
+	"difficulties": [
+		"normal"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Ohno",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 150
+}

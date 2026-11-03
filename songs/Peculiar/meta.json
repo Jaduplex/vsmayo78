@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#4E5CFE",
+	"opponentModeAllowed": true,
+	"icon": "mayo",
+	"difficulties": [
+		"normal"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Peculiar",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 130
+}

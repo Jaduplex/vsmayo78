@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="700" y="625" scale="1.4" camx="-450" camy="-50" icon="bayo" color="#FE0069" applyStageMatrix="true">
+	<anim name="idle" anim="flipflopCutsceneStart" x="956" y="284"/>
+	<anim name="end" anim="flipflopCutsceneEnd" x="978" y="325"/>
+</character>

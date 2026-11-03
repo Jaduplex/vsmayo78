@@ -1,0 +1,24 @@
+{
+    "params": [
+        {
+            "name": "Character",
+            "type": "StrumLine",
+            "defaultValue": 0
+        },
+        {
+            "name": "Suffix (Include dash, leave blank for default)",
+            "type": "String",
+            "defaultValue": ""
+        },
+        {
+            "name": "Affect Idle",
+            "type": "Bool",
+            "defaultValue": false
+        },
+        {
+            "name": "Affect Singing",
+            "type": "Bool",
+            "defaultValue": true
+        }
+    ]
+}
