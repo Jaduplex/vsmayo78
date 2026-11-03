@@ -34,4 +34,4 @@ function augItUp(durBeats)
 	}
 }
 
-var isMayoTime:Bool = true;
+var isMayoTime:Bool = false;

@@ -1,8 +1,14 @@
 <!DOCTYPE codename-engine-character>
-<character x="700" y="625" scale="1.4" camx="-450" camy="-50" color="#B05C95" applyStageMatrix="true">
-	<anim name="idle" anim="anims/idle"/>
-	<anim name="singUP" anim="anims/up" x="-123" y="110"/>
-	<anim name="singLEFT" anim="anims/left" x="-132" y="107"/>
-	<anim name="singRIGHT" anim="anims/right" x="-155" y="101"/>
-	<anim name="singDOWN" anim="anims/down" x="-151" y="104"/>
+<character x="360" y="669" scale="1.4" camx="-80" camy="-115" color="#B05C95" applyStageMatrix="true">
+	<anim name="danceLeft" anim="anims/danceLeft"/>
+	<anim name="danceRight" anim="anims/danceRight"/>
+	<anim name="singUP" anim="anims/mup" x="-150" y="9.28"/>
+	<anim name="singLEFT" anim="anims/mleft" x="-181.43" y="7.15"/>
+	<anim name="singRIGHT" anim="anims/mright" x="-120.71" y="-1.43"/>
+	<anim name="singDOWN" anim="anims/mdown" x="-225" y="1.43"/>
+	<anim name="singUP-bayo" anim="anims/bup" x="113.57" y="98.57"/>
+	<anim name="singLEFT-bayo" anim="anims/bleft" x="223.57" y="124.28"/>
+	<anim name="singRIGHT-bayo" anim="anims/bright" x="129.29" y="65"/>
+	<anim name="singDOWN-bayo" anim="anims/bdown" x="197.14" y="36.43"/>
+	<anim name="cutscene" anim="anims/cutscene"/>
 </character>
