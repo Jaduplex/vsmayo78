@@ -25,3 +25,13 @@ function postCreate()
 		it++;
 	}
 }
+
+function augItUp(durBeats)
+{
+	if (FlxG.random.int(0, 20) != 0 || isMayoTime)
+	{
+		FlxTween.tween(aug, {x: 2500}, (Conductor.crochet / 1000) * Std.parseInt(durBeats));		
+	}
+}
+
+var isMayoTime:Bool = true;
