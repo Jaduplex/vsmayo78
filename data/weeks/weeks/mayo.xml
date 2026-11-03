@@ -1,5 +1,8 @@
 <!DOCTYPE codename-engine-week>
 <week name="ODD TO SEE!" chars="mayo,bf,gf" sprite="mayo">
+	<difficulty name="Normal"/>
+	<difficulty name="Normal"/>
+	<difficulty name="Normal"/>
 	<song>Peculiar</song>
 	<song>Flip Flop</song>
 	<song>Ohno</song>

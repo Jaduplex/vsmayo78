@@ -8,23 +8,16 @@ function postCreate()
 	{
 		for (char in struml.characters)
 		{
+			char.useRenderTexture = true;
+			
 			var dropShadow = getDropShadow(char);
 
-			dropShadow.setAdjustColor(-30, -32, 50, -60);
+			dropShadow.setAdjustColor(-6, -10, -20, 5);
 
-			dropShadow.antialiasAmt = 4;
-			dropShadow.threshold = 0.1;
-			dropShadow.distance = 20;
-			dropShadow.angle = 90 - 4;
-
-			switch (it)
-			{
-				case 1:
-					dropShadow.angle = 105;
-					dropShadow.threshold = 0.35;
-				case 2:
-					dropShadow.angle = 90;
-			}
+			dropShadow.antialiasAmt = 12;
+			dropShadow.threshold = -1;
+			dropShadow.distance = 8;
+			dropShadow.angle = 92;
 
 			dropShadow.color = FlxColor.fromRGB(69, 69, 69);
 		}

@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#FE0069",
+	"opponentModeAllowed": true,
+	"icon": "bayo",
+	"difficulties": [
+		"normal"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Flip Flop",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 87
+}

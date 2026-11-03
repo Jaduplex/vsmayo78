@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="-1575" y="-600" scale="0.75" icon="gf">
+	<anim name="idle" anim="idle"/>
+	<anim name="intro" anim="intro"/>
+	<anim name="idle-alt" anim="altidle"/>
+</character>

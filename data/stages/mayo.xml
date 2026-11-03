@@ -1,5 +1,8 @@
 <!DOCTYPE codename-engine-stage>
 <stage name="mayo" folder="stages/mayo/" zoom="0.7" startCamPosX="300" startCamPosY="250">
+	<sprite name="skyn" sprite="sky_night" x="-64" y="-36" scroll="0" zoomfactor="0"/>
+	<sprite name="housen" sprite="house" x="-881" y="-346" scale="2" scroll="0.9" skewx="0" skewy="0"/>
+	<sprite name="grassn" sprite="grass_night" x="-72" y="776" scale="2" skewx="0" skewy="0"/>
 	<sprite name="sky" sprite="sky" x="-64" y="-36" scroll="0" zoomfactor="0"/>
 	<sprite name="house" sprite="house" x="-881" y="-346" scale="2" scroll="0.9" skewx="0" skewy="0"/>
 	<sprite name="grass" sprite="grass" x="-72" y="776" scale="2" skewx="0" skewy="0"/>
